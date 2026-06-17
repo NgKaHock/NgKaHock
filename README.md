@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+
+I am a system/software developer focused on providing business solution application. 
+
+My work revolves around turning ideas into functional products.
+
+I continuously explore new technologies and improve my ability to design and implement reliable software solutions.
+
+---
+
+### Tech Stack
+
+- Python,Thinker,Web Development for coding
+- Onenote,Canva for designing proposal
+
+---
+
 <!--
 **NgKaHock/NgKaHock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
