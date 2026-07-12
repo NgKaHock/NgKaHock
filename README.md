@@ -16,6 +16,11 @@ I continuously explore new technologies and improve my ability to design and imp
 
 ---
 
+### ⚡ Fun fact
+
+- Like to have ME time
+- give me some independent space, i will finish my job efficiency
+  
 <!--
 **NgKaHock/NgKaHock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
