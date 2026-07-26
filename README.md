@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 
-I am a system/software developer focused on providing business solution application. 
+An aspiring IT professional with a Diploma in Information Communication Technology and hands-on experience in IT support, system troubleshooting, and automation development. 
 
-My work revolves around turning ideas into functional products.
-
-I continuously explore new technologies and improve my ability to design and implement reliable software solutions.
+Skilled in Python, web development, and software tools, with experience building practical solutions such as EZinstall. Passionate about continuous learning and developing scalable software solutions.
 
 ---
 
