@@ -12,24 +12,40 @@ Currently, I'm expanding my skills in C#, .NET, React, TypeScript, and PostgreSQ
 ### Tech Stack
 
 #### Programming & Development
+
 Python
+
 C#
+
 Java
+
 HTML / CSS / JavaScript
+
 React
+
 TypeScript
+
 .NET
+
 PHP
+
 MySQL / PostgreSQL
 
 
 #### Tools & Technologies
+
 Git & GitHub
+
 Visual Studio / VS Code
+
 Django
+
 Node.js
+
 Unity
+
 Tkinter / CustomTkinter
+
 ---
 
 ## 📌 Featured Project
