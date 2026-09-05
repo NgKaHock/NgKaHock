@@ -25,6 +25,8 @@ Currently, I'm expanding my skills in C#, .NET, React, TypeScript, and PostgreSQ
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d9d6ff8b-5b25-4e26-8d4a-90f92c13b0f2" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/5ff821bf-f777-4802-80a1-25ba4ba05070" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/f04aac76-3ada-4362-b9a4-62106314dd7d" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a169246d-23be-4b81-bc1c-f711e27f2803" />
+
 
 
 
