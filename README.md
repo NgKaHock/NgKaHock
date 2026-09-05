@@ -51,6 +51,7 @@ Uses Windows Package Manager (winget)
 Supports installing multiple applications
 Includes installation progress and logs
 Packaged as a standalone Windows application
+
 ---
 
 ### ⚡ Fun fact
